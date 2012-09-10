@@ -542,7 +542,7 @@ Once done, you will be able to load these files by using the `propel:fixtures:lo
 
 
 The `PropelBundle` provides a model-based implementation of the Security components' interfaces.
-To make us of this `AuditableAclProvider` you only need to change your security configuration.
+To make use of this `AuditableAclProvider` you only need to change your security configuration.
 
 {% highlight yaml %}
 security:
